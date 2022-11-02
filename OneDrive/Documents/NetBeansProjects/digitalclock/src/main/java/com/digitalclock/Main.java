@@ -12,7 +12,7 @@ public class Main {
     public static void Main(String[] args) {
         
         System.out.println("Testing...");
-        MyWindow w = new MyWindow();
+       
         
     }
     
